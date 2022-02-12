@@ -1,0 +1,10 @@
+{
+  "apps" : [
+    {
+      "name"      : "admin",
+      "script"    : "yarn start",
+      "interpreter": "none",
+      "args": "serve -p 8443 -T"
+    }
+  ]
+}

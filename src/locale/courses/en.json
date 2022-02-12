@@ -1,0 +1,40 @@
+{
+    "title": "All Courses",
+    "switch": "Switch To",
+    "addButton": "Create Course",
+    "serialNumber": "Sl. No",
+    "subject": "Subject",
+    "nameLabel": "Name",
+    "commissionName": "your commission",
+    "avatar": "Avatar",
+    "maxPrice": "Franchise price",
+    "createButton": "Create",
+    "status": "Status",
+    "searchPlaceholder": "Search Course by Name",
+    "priceByInstitute": "Price by Franchise",
+    "of": "of",
+    "form": {
+        "validate": {
+            "avatar": "Please provide an image",
+            "name": "Please provide courses name",
+            "commissionName": "Please provide minimum value",
+            "validCommissionName": "Please provide valid minimum value",
+            "maxPrice": "Please provide maximum value",
+            "validMaxPrice": "Franchise price should be higher than commission"
+        },
+        "confirm": {
+            "delete": "Do you really want to delete this course ?"
+        },
+        "confirmDialog": {
+            "titleForDelete": "Are you sure ?",
+            "messageForActive": "Do you want to active this Course?",
+            "messageForDeactivate": "Do you want to deactivate this Course?",
+            "okLebel": "Yes",
+            "options": "No, don't"
+        }
+    },
+    "success": {
+        "editedSuccess": "Edited Successfully",
+        "deletedSuccessfully": "Deleted Successfully"
+    }
+}

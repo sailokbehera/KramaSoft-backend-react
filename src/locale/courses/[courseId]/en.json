@@ -1,0 +1,29 @@
+{
+    "title": "All Subject",
+    "noSubjects": "No Subjects",
+    "addButton": "Create Subject",
+    "serialNumber": "Sl. No",
+    "subject": "Subject",
+    "nameLabel": "Name",
+    "avatar": "Avatar",
+    "status": "Status",
+    "searchPlaceholder": "Search course by name",
+    "form": {
+        "validate": {
+            "avatar": "Please provide an image",
+            "name": "Please provide courses name",
+            "commissionName": "Please provide minimum value",
+            "validCommissionName": "Please provide valid minimum value",
+            "maxPrice": "Please provide maximum value",
+            "validMaxPrice": "Please provide valid maximum value"
+        },
+        "confirm": {
+            "delete": "Are you sure to delete?"
+        }
+    },
+    "success": {
+        "createdSuccessfully": "Created successfully",
+        "editedSuccess": "Edited Successfully",
+        "deletedSuccessfully": "Deleted Successfully"
+    }
+}

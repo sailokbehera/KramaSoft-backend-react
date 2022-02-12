@@ -1,0 +1,22 @@
+{
+    "pageTitle": "Login - Jupion Classes",
+    "title": "Admin Login",
+    "form": {
+        "label": {
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "Email",
+            "phoneNumber": "Phone Number",
+            "password": "Password"
+        },
+        "button": {
+            "submit": "Login",
+            "forgetPassword": "Forget Password"
+        },
+        "error": {
+            "email": "Please provide a valid email",
+            "password": "Password is required"
+        },
+        "success": "Login successful!"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "title": "All Subjects",
+    "addButton": "Create Subject",
+    "searchPlaceholder": "Search Subject by Name",
+    "status": "Status",
+    "nameLabel": "Name",
+    "form": {
+        "validate": {
+            "name": "Please Provide Subject Name",
+            "shortName": "Please Provide Short Name",
+            "image": "Image is required"
+        },
+        "confirm": {
+            "delete": "Do you really want to delete this Subject?"
+        },
+        "confirmDialog": {
+            "titleForDelete": "Are you sure ?",
+            "messageForActive": "Do you want to active this Subject ?",
+            "messageForDeactivate": "Do you want to deactivate this Subject?",
+            "okLebel": "Yes",
+            "options": "No, don't"
+        }
+    },
+    "success": {
+        "editedSuccess": "Edited Successfully",
+        "deletedSuccessfully": "Deleted Successfully"
+    }
+}

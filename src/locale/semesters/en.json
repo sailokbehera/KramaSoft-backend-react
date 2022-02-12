@@ -1,0 +1,18 @@
+{
+    "title": "All Semesters",
+    "form": {
+        "nameLabel": "Name",
+        "addButton": "Create",
+        "editButton": "Update",
+        "errors": {
+            "name": "Please Provide Semester Name"
+        }
+    },
+    "addButton": "Create Semester",
+    "searchPlaceholder": "search Semester",
+    "messages": {
+        "create": "Semester created successfully",
+        "edit": "Semester updated successfully",
+        "delete": "Semester deleted successfully"
+    }
+}

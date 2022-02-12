@@ -1,0 +1,28 @@
+{
+    "title": "All Classes",
+    "button":"Add Schedule",
+    "noSchedule":"No live classes found",
+    "dialogTitle": "List of all present students",
+    "button-cancel": "Cancel",
+    "dialogButton": "Submit Attendance",
+    "no_student": "No students were present",
+    "takeAttendance": "Attendance taken successfully",
+    "takeAttendanceButton":"Take Attendance",
+    "startClass":"Start Class",
+    "classesStarted":"Class started now u can take attendance",
+    "endClass":"End Class",
+    "classEnded": "Class ended successfully",
+    "Schulded": "Schulded",
+    "viewAttendance": "View Attendance",
+    "started": "Started",
+    "ended": "Ended",
+    "institutionClasses": "Institution's Classes",
+    "teacherClasses": "Teacher's Classes",
+    "confirm": {
+        "title": "Are your sure?",
+        "message": "Do you want to start this class ?",
+        "messageToEnd": "Do you want to end this class ?",
+        "remove": "No",
+        "yes": "Yes"
+    }
+}

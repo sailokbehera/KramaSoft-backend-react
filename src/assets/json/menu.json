@@ -1,0 +1,24 @@
+[
+    {
+        "_id": "5ff8967f1ekjc21e46861ac7",
+        "order": 0,
+        "parent": null,
+        "target": "same",
+        "isGroup": false,
+        "isMaterialIcon": true,
+        "status": 1,
+        "name": {
+            "en": "Dashboard"
+        },
+        "materialIconName": "Dashboard",
+        "type": "ADMIN",
+        "href": "/",
+        "module": "see_dashboard",
+        "meta_name": "manage_dashboard",
+        "createdBy": "5fe58f6160591bd99d7cf874",
+        "createdAt": "2021-01-08T17:29:35.550Z",
+        "updatedAt": "2021-01-13T19:28:38.633Z",
+        "__v": 0,
+        "updatedBy": "5fe58f6160591bd99d7cf874"
+    }
+]
